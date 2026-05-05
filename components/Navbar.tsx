@@ -7,7 +7,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 w-full border-b border-slate-200 bg-white shadow-sm">
       <div className="container mx-auto px-4 h-24 flex items-center justify-between">
         <Link href="/" className="flex items-center h-full">
-          <Image src="/jose_logo.jpg" alt="JBZ Construction Logo" width={300} height={96} className="w-auto h-full object-contain" priority />
+          <Image src="/jose_logo2.png" alt="JBZ Construction Logo" width={300} height={96} className="w-auto h-full object-contain" priority />
         </Link>
         
         <nav className="hidden md:flex items-center gap-8 font-medium text-slate-700">

@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
           <Link href="/" className="inline-block mb-6 bg-white/10 p-2 rounded-xl">
-            <Image src="/jose_logo.jpg" alt="JBZ Construction Logo" width={400} height={150} className="w-auto h-20 md:h-28 object-contain" />
+            <Image src="/jose_logo2.png" alt="JBZ Construction Logo" width={400} height={150} className="w-auto h-20 md:h-28 object-contain" />
           </Link>
           <p className="mb-4 text-sm">
             Top-rated local contractor in Apex, NC providing expert siding, carpentry, and window replacement services.
