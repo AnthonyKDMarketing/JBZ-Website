@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import { Mail, Phone, MapPin } from "lucide-react";
+import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title: "Contact Us | Request a Quote | JBZ Construction",
@@ -19,42 +20,7 @@ export default function ContactPage() {
       <div className="container mx-auto px-4 max-w-6xl mt-16 grid grid-cols-1 lg:grid-cols-2 gap-16">
         <div>
           <h2 className="text-2xl font-bold text-primary-900 mb-6">Send Us a Message</h2>
-          <form className="bg-white p-8 rounded-xl shadow-sm border border-slate-200">
-            <div className="grid grid-cols-2 gap-6 mb-6">
-              <div>
-                <label className="block text-sm font-medium text-slate-700 mb-2">First Name</label>
-                <input type="text" className="w-full border border-slate-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none" placeholder="John" />
-              </div>
-              <div>
-                <label className="block text-sm font-medium text-slate-700 mb-2">Last Name</label>
-                <input type="text" className="w-full border border-slate-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none" placeholder="Doe" />
-              </div>
-            </div>
-            
-            <div className="mb-6">
-              <label className="block text-sm font-medium text-slate-700 mb-2">Email Address</label>
-              <input type="email" className="w-full border border-slate-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none" placeholder="john@example.com" />
-            </div>
-
-            <div className="mb-6">
-              <label className="block text-sm font-medium text-slate-700 mb-2">Service of Interest</label>
-              <select className="w-full border border-slate-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none bg-white">
-                <option>Siding Installation</option>
-                <option>Custom Carpentry</option>
-                <option>Window Replacement</option>
-                <option>Other / Multiple Services</option>
-              </select>
-            </div>
-
-            <div className="mb-6">
-              <label className="block text-sm font-medium text-slate-700 mb-2">Project Details</label>
-              <textarea rows={4} className="w-full border border-slate-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none" placeholder="Tell us a little bit about what you need..."></textarea>
-            </div>
-
-            <button type="button" className="w-full bg-accent-500 hover:bg-accent-600 text-white font-bold py-3 px-4 rounded-md transition-colors">
-              Request Free Quote
-            </button>
-          </form>
+          <ContactForm />
         </div>
 
         <div className="space-y-8">
