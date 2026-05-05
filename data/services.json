@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": { "rendered": "Carpentry" },
+    "excerpt": { "rendered": "Expert craftsmanship for trim, fascia, structural framing, and general woodwork." },
+    "acf": { "image_url": "/gallery/20250604_144332.jpg" },
+    "basic_details": "From replacing rotted structural beams to installing premium trim and fascia, our expert carpenters deliver durable, precise woodwork designed to withstand the harsh North Carolina elements. We handle both decorative and structural carpentry needs with meticulous attention to detail.",
+    "appraisal_process": "During your on-site appraisal, our lead carpenter will inspect the area, take exact measurements, and assess any underlying structural damage (such as hidden wood rot). We'll discuss material options, from treated lumber to modern composite alternatives.",
+    "estimate_delivery": "You can expect a fully itemized, transparent estimate within 24-48 hours of our initial visit. The estimate will clearly separate material costs from labor, with no hidden fees."
+  },
+  {
+    "id": 2,
+    "title": { "rendered": "Window & Doors" },
+    "excerpt": { "rendered": "High-efficiency brand upgrades, entry door redesigns, and precision repairs." },
+    "acf": { "image_url": "/gallery/20260115_111854.jpg" },
+    "basic_details": "Enhance your home's energy efficiency and curb appeal with our window and door services. Whether you need a drafty seal repaired, a sliding track realigned, or a complete installation of new, high-efficiency double-hung windows and secure entry doors.",
+    "appraisal_process": "We will conduct a draft and thermal diagnostic sweep around your existing frames. We take millimeter-exact measurements to ensure any replacement fits perfectly into the settlement of your home.",
+    "estimate_delivery": "Because window and door costs depend heavily on the manufacturer and custom sizing, your customized quote will be delivered within 48 hours after verifying supplier inventory."
+  },
+  {
+    "id": 3,
+    "title": { "rendered": "Paint Restoration" },
+    "excerpt": { "rendered": "Premium exterior painting and prep work to protect and revive your home." },
+    "acf": { "image_url": "/gallery/20250517_163851.jpg" },
+    "basic_details": "Defend your exterior and breathe new life into your home. We specialize in rigorous prep-work—scraping, sanding, and applying premium primers—before laying down weather-resistant acrylic coats perfectly formulated to last 7-10 years in the NC climate.",
+    "appraisal_process": "Our estimator will walk the perimeter of your home to identify any areas of failing paint, chalking, or underlying wood rot that must be addressed before painting. We will also discuss color matching and sheen preferences.",
+    "estimate_delivery": "A comprehensive painting estimate, detailing the exact brand of paint and the number of coats required, will be sent to your inbox within 24 hours of the appraisal."
+  },
+  {
+    "id": 4,
+    "title": { "rendered": "Interior/Exterior Renovation" },
+    "excerpt": { "rendered": "Seamless patch repair, siding replacement, and full property encapsulation." },
+    "acf": { "image_url": "/gallery/20250708_134817.jpg" },
+    "basic_details": "Whether you need a full house re-shell with James Hardie board, or seamless drywall patching from water damage, we handle comprehensive renovations. We specialize in matching existing textures and ensuring structural integrity across both the interior and exterior of your home.",
+    "appraisal_process": "We perform a deep dive into the scope of the renovation, checking for water damage, insulation fidelity, and structural soundness. For exterior siding, we map out the necessary vapor barriers and flashing.",
+    "estimate_delivery": "Given the complex nature of full renovations, expect a highly detailed, phased estimate within 3-5 business days. This will outline timelines, material choices, and labor phases."
+  },
+  {
+    "id": 5,
+    "title": { "rendered": "Simple Plumbing Repair" },
+    "excerpt": { "rendered": "Rapid leak diagnosis, spigot replacement, and minor utility repairs." },
+    "acf": { "image_url": "/gallery/20260421_152141.jpg" },
+    "basic_details": "Don't let a leaking exterior spigot or a minor interior drip jeopardize your foundation. Our rapid repair plumbing services cover essential pipe leak tracing, exterior faucet replacements, and clean soldering for minor utility tie-ins.",
+    "appraisal_process": "Our specialist will isolate the water supply, perform a diagnostic sweep to trace the source of the leak, and evaluate if surrounding drywall or wood has been compromised.",
+    "estimate_delivery": "For simple plumbing repairs, we often provide an immediate, flat-rate quote on-site. For more complex traces, a formal estimate will be provided by the end of the day."
+  },
+  {
+    "id": 6,
+    "title": { "rendered": "Decks & Flooring" },
+    "excerpt": { "rendered": "Custom built outdoor living spaces and high-quality interior flooring installations." },
+    "acf": { "image_url": "/gallery/20251021_171142.jpg" },
+    "basic_details": "Expand your living space outdoors with a custom-built, code-compliant deck, or upgrade your home's interior with premium, durable flooring. We handle everything from pressure-treated lumber and composite decking to luxury vinyl plank (LVP) and hardwood flooring.",
+    "appraisal_process": "We will assess your yard's grading, soil stability, and zoning setbacks for new decks, or measure square footage and subfloor conditions for interior flooring. We will present material samples and discuss your vision.",
+    "estimate_delivery": "Your custom design and estimate will be finalized and delivered within 48-72 hours, complete with material breakdown and projected permitting timelines."
+  }
+]

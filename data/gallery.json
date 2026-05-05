@@ -1,0 +1,62 @@
+[
+  {
+    "id": 201,
+    "title": { "rendered": "Custom Exterior Project" },
+    "acf": {
+      "service_category": "exterior",
+      "image_url": "/gallery/20250517_163851.jpg",
+      "alt_text": "Recent JBZ Construction exterior project",
+      "location": "Apex, NC"
+    }
+  },
+  {
+    "id": 202,
+    "title": { "rendered": "Custom Deck Build" },
+    "acf": {
+      "service_category": "carpentry",
+      "image_url": "/gallery/20250604_144332.jpg",
+      "alt_text": "Recent JBZ Construction carpentry project",
+      "location": "Cary, NC"
+    }
+  },
+  {
+    "id": 203,
+    "title": { "rendered": "Premium Siding Installation" },
+    "acf": {
+      "service_category": "siding",
+      "image_url": "/gallery/20250708_134817.jpg",
+      "alt_text": "Recent JBZ Construction siding project",
+      "location": "Holly Springs, NC"
+    }
+  },
+  {
+    "id": 204,
+    "title": { "rendered": "Outdoor Living Space" },
+    "acf": {
+      "service_category": "carpentry",
+      "image_url": "/gallery/20251021_171142.jpg",
+      "alt_text": "Recent JBZ Construction carpentry project",
+      "location": "Apex, NC"
+    }
+  },
+  {
+    "id": 205,
+    "title": { "rendered": "Window Replacement" },
+    "acf": {
+      "service_category": "windows",
+      "image_url": "/gallery/20260115_111854.jpg",
+      "alt_text": "Recent JBZ Construction window project",
+      "location": "Cary, NC"
+    }
+  },
+  {
+    "id": 206,
+    "title": { "rendered": "Structural Repairs" },
+    "acf": {
+      "service_category": "repairs",
+      "image_url": "/gallery/20260421_152141.jpg",
+      "alt_text": "Recent JBZ Construction repair project",
+      "location": "Apex, NC"
+    }
+  }
+]

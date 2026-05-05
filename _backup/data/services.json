@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "slug": "siding",
+    "title": { "rendered": "Siding Installation & Repair" },
+    "content": { "rendered": "<p>Transform your home's exterior with our premium siding solutions in Apex, NC. We specialize in hardie board, vinyl, and wood siding.</p>" },
+    "excerpt": { "rendered": "Premium siding installation to protect and beautify your home." },
+    "acf": {
+      "icon_name": "Home",
+      "benefits": [
+        "Increased Energy Efficiency",
+        "Enhanced Curb Appeal",
+        "Weather Resistance"
+      ],
+      "process": [
+        "Free In-Home Consultation",
+        "Material Selection",
+        "Professional Installation",
+        "Final Inspection"
+      ],
+      "seo_keywords": ["siding contractor Apex NC", "vinyl siding replacement", "Hardie board installation"]
+    }
+  },
+  {
+    "id": 2,
+    "slug": "carpentry",
+    "title": { "rendered": "Custom Exterior Carpentry" },
+    "content": { "rendered": "<p>Our expert carpenters build stunning decks, porches, and exterior trim that elevate your outdoor living space.</p>" },
+    "excerpt": { "rendered": "Expert craftsmanship for decks, porches, and custom trim work." },
+    "acf": {
+      "icon_name": "Hammer",
+      "benefits": [
+        "Custom Designed Spaces",
+        "High Quality Materials",
+        "Increased Property Value"
+      ],
+      "process": [
+        "Design Consultation",
+        "Permit Acquisition",
+        "Construction Phase",
+        "Client Walkthrough"
+      ],
+      "seo_keywords": ["custom decks Apex NC", "exterior trim carpenter", "porch builder"]
+    }
+  },
+  {
+    "id": 3,
+    "slug": "windows",
+    "title": { "rendered": "Window Replacement" },
+    "content": { "rendered": "<p>Upgrade to energy-efficient windows. We offer seamless installation of all major brands for homes in the Apex area.</p>" },
+    "excerpt": { "rendered": "Energy-efficient window replacements to lower your bills." },
+    "acf": {
+      "icon_name": "LayoutGrid",
+      "benefits": [
+        "Lower Heating & Cooling Costs",
+        "Noise Reduction",
+        "Easy Maintenance"
+      ],
+      "process": [
+        "Window Measurement",
+        "Energy Efficiency Selection",
+        "Clean Installation",
+        "Seal & Test"
+      ],
+      "seo_keywords": ["window replacement Apex", "energy efficient windows", "window installation services"]
+    }
+  }
+]
