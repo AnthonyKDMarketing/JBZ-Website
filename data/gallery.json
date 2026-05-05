@@ -1,41 +1,41 @@
 [
   {
     "id": 201,
-    "title": { "rendered": "Custom Exterior Project" },
+    "title": { "rendered": "Driveway Surface Cleaning" },
     "acf": {
-      "service_category": "exterior",
+      "service_category": "repairs",
       "image_url": "/gallery/20250517_163851.jpg",
-      "alt_text": "Recent JBZ Construction exterior project",
+      "alt_text": "Recent JBZ Construction surface cleaning project",
       "location": "Apex, NC"
     }
   },
   {
     "id": 202,
-    "title": { "rendered": "Custom Deck Build" },
+    "title": { "rendered": "Privacy Fence Construction" },
     "acf": {
       "service_category": "carpentry",
       "image_url": "/gallery/20250604_144332.jpg",
-      "alt_text": "Recent JBZ Construction carpentry project",
+      "alt_text": "Wooden privacy fence under construction",
       "location": "Cary, NC"
     }
   },
   {
     "id": 203,
-    "title": { "rendered": "Premium Siding Installation" },
+    "title": { "rendered": "Custom Deck Lattice" },
     "acf": {
-      "service_category": "siding",
+      "service_category": "carpentry",
       "image_url": "/gallery/20250708_134817.jpg",
-      "alt_text": "Recent JBZ Construction siding project",
+      "alt_text": "Deck lattice and skirting installation",
       "location": "Holly Springs, NC"
     }
   },
   {
     "id": 204,
-    "title": { "rendered": "Outdoor Living Space" },
+    "title": { "rendered": "Finished Privacy Fence" },
     "acf": {
       "service_category": "carpentry",
       "image_url": "/gallery/20251021_171142.jpg",
-      "alt_text": "Recent JBZ Construction carpentry project",
+      "alt_text": "Finished wooden privacy fence",
       "location": "Apex, NC"
     }
   },
@@ -51,11 +51,11 @@
   },
   {
     "id": 206,
-    "title": { "rendered": "Structural Repairs" },
+    "title": { "rendered": "Premium Siding Installation" },
     "acf": {
-      "service_category": "repairs",
+      "service_category": "siding",
       "image_url": "/gallery/20260421_152141.jpg",
-      "alt_text": "Recent JBZ Construction repair project",
+      "alt_text": "Dark gray siding corner installation",
       "location": "Apex, NC"
     }
   }

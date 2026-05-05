@@ -15,7 +15,7 @@ export default function Footer() {
             Top-rated local contractor in Apex, NC providing expert siding, carpentry, and window replacement services.
           </p>
           <p className="text-sm">
-            <strong>Address:</strong> 123 Main St,<br/>Apex, NC 27502<br/>
+            Apex, NC 27502<br/>
             <strong>Service Area:</strong> Within 25 miles
           </p>
         </div>
