@@ -4,12 +4,7 @@ import services from '@/data/services.json';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://jbzconstruction.com';
 
-  const dynamicServiceUrls = services.map((service) => ({
-    url: `${baseUrl}/services/${service.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.9,
-  }));
+
 
   return [
     {
@@ -24,7 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
-    ...dynamicServiceUrls,
+
     {
       url: `${baseUrl}/about`,
       lastModified: new Date(),
