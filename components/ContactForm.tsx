@@ -55,9 +55,15 @@ export default function ContactForm() {
         </div>
       </div>
 
-      <div className="mb-6">
-        <label className="block text-sm font-medium text-slate-700 mb-2">Email Address</label>
-        <input name="email" required type="email" className="w-full border border-slate-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none text-slate-900" placeholder="john@example.com" />
+      <div className="grid grid-cols-2 gap-6 mb-6">
+        <div>
+          <label className="block text-sm font-medium text-slate-700 mb-2">Email Address</label>
+          <input name="email" required type="email" className="w-full border border-slate-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none text-slate-900" placeholder="john@example.com" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium text-slate-700 mb-2">Phone Number</label>
+          <input name="phone" required type="tel" className="w-full border border-slate-300 rounded-md px-4 py-2 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 outline-none text-slate-900" placeholder="(555) 555-5555" />
+        </div>
       </div>
 
       <div className="mb-6">

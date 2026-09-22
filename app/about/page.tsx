@@ -20,19 +20,19 @@ export default function AboutPage() {
         <div>
           <h2 className="text-3xl font-bold text-primary-900 mb-6">Our Story</h2>
           <p className="text-slate-700 mb-4 leading-relaxed">
-            Founded with a commitment to quality and integrity, JBZ Construction has been serving the homeowners of Apex, NC and the surrounding 25-mile radius for over 15 years.
+            JBZ Home Restoration & Renovations, LLC is a trusted remodeling and home improvement contractor servicing Cary, Raleigh, Apex, Holly springs, Fuquay- Varina, Garner, and surrounding areas.
           </p>
           <p className="text-slate-700 mb-4 leading-relaxed">
-            We specialize in exterior renovations—from durable James Hardie and vinyl siding to custom deck carpentry and energy-saving window replacements. We treat every home as if it were our own, ensuring meticulous attention to detail and long-lasting results.
+            We specialize in interior and exterior painting, siding installation and replacement, deck staining, fencing, chimney siding repairs, and general home renovations.
           </p>
           <p className="text-slate-700 leading-relaxed text-accent-600 font-medium">
-            Our mission is simple: Provide the highest quality materials, unparalleled craftsmanship, and a customer experience that brings peace of mind.
+            Our team is committed to quality craftsmanship, honest communication, and exceptional customer service. Whether you need repairs, remodeling, or complete home improvements, we provide reliable, professional service and free estimates to help bring your vision to life.
           </p>
         </div>
         <div className="relative h-96 rounded-2xl overflow-hidden shadow-xl">
           <img 
-            src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80" 
-            alt="JBZ Construction Team on site"
+            src="/owner-jobsite.jpg" 
+            alt="JBZ Owner on the job site working on chimney siding"
             className="w-full h-full object-cover"
           />
         </div>

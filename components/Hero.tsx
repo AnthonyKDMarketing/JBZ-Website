@@ -7,8 +7,7 @@ import { ArrowRight, ShieldCheck, MapPin } from "lucide-react";
 const HERO_IMAGES = [
   "/hero_bg/1.png",
   "/hero_bg/2.png",
-  "/hero_bg/3.png",
-  "/hero_bg/4.png"
+  "/hero_bg/3.png"
 ];
 
 export default function Hero() {
