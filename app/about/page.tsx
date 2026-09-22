@@ -33,7 +33,7 @@ export default function AboutPage() {
           <img 
             src="/owner-jobsite.jpg" 
             alt="JBZ Owner on the job site working on chimney siding"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover object-top"
           />
         </div>
       </div>
